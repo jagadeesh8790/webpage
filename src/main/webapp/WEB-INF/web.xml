@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+    id="resto" version="3.0">
+    
+    <display-name>resto</display-name>
+    <welcome-file-list>
+<<<<<<< HEAD
+        <welcome-file>menu.html</welcome-file>
+        <welcome-file>special-dishes.html</welcome-file>
+        <welcome-file>app.min.jsp</welcome-file>
+=======
+        <welcome-file>special-dishes.html</welcome-file>
+        <welcome-file>special-dishes.htm</welcome-file>
+        <welcome-file>special-dishes.jsp</welcome-file>
+>>>>>>> e28c53668318193218a297444efaa1a96beeb046
+    </welcome-file-list>
+</web-app>
